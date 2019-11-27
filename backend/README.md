@@ -1,9 +1,5 @@
 # Eight One (Backend)
 
-Eight One é uma aplicação que integra profissionais da área de TI à escolas, levando conhecimentos aos alunos do ensimo médio.
-
-O Eight One foi desenvolvido utilizando [NodeJS](https://nodejs.org/en/).
-
 ## Instalação
 
 Para executar a aplicação localmente é necessário ter instalado na máquina o **Node.js** (os exemplos abaixo serão utilizando **Yarn**).
